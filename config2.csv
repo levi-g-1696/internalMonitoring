@@ -1,0 +1,7 @@
+isEnable,checkFunction,appName,tag,cmdString,argString
+1,isAppInRunnigList,Logger net,mLGNT,Campbellsci\LoggerNet,
+1,isAppInRunnigList,CR510-1000,mCR510,python,CR510
+1,isAppInRunnigList,Amnon-tool,mAmnon,Send2Erm_new.exe,
+1,isAppInRunnigList,ConSynVal,mConSV,Python\Python311\python,conSynVal_Loop.py
+1,isAppInRunnigList,FileZilla,mFZila,FileZilla,
+1,checkSQLconnection,None,mSQL,None,

@@ -1,0 +1,6 @@
+isEnable,appName,tag,cmdString,argString
+1,Logger net,mLGNT,Campbellsci\LoggerNet,
+1,CR510-1000,mCR510,python,CR510
+1,Amnon-tool,mAmnon,Send2Erm_new.exe,
+1,ConSynVal,mConSV,Python\Python311\python,conSynVal_Loop.py
+1,FileZilla,mFZila,FileZilla,
